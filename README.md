@@ -1,4 +1,4 @@
-# Obfucate template for objective c++
+# Obfuscate template for objective c++
 
 Một framework nhỏ gọn, dễ dàng tích hợp dành riêng cho các dự án Theos / Tweak iOS. Cung cấp các biện pháp phòng thủ cơ bản để chống lại dịch ngược (Reverse Engineering), Gỡ lỗi (Debugging), và can thiệp bộ nhớ (Hooking/Dumping). Đặc biệt, hệ thống được thiết kế dạng **Tự trị (Modular)**, người dùng có thể kích hoạt từng chức năng tùy theo nhu cầu.
 
